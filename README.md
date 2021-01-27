@@ -12,3 +12,6 @@ This is a very common beginners' data set and the survivor prediction is done th
 * Seaborn -> 0.10.1
 
 * Scikit learn -> 0.23.2
+
+### Note:
+It is a built-in Seaborn dataset hence, no csv file.
