@@ -1,4 +1,4 @@
-# Titanic_Survivors
+# Titanic Survivors' Prediction
 This is a very common beginners' data set and the survivor prediction is done through Logistic Regression. 
 
 ## Libraries used:
